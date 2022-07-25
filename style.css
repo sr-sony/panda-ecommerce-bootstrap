@@ -1,0 +1,12 @@
+.bg-banner{
+    background: #FEEAE9;
+}
+
+.text-pink{
+    color: #FF136F;
+}
+
+.bg-btn{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: #FFFFFF;
+}
