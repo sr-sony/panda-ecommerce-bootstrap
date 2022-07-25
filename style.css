@@ -29,3 +29,7 @@
 .text-gray{
     color: #707070;
 }
+
+.categories img{
+    width: 100px;
+}
